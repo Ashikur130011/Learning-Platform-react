@@ -1,0 +1,13 @@
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(50, 238, 238);
+}
+
+.link{
+    color: black;
+    font-weight: 600;
+    text-decoration: none;
+    margin-right: 10px;
+}
